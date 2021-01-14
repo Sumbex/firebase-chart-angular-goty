@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "curso-angular-goty": {
+      "hosting": {
+        "goty": [
+          "curso-angular-goty"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "curso-angular-goty"
+  }
+}
